@@ -16,7 +16,10 @@ B.A. Statistics and German Studies | University of Virginia (_May 2022_)
 
 ## Projects
 
+### [Classification and Regression of Student Performance](https://docs.google.com/document/d/169ATQx2SRKDx49DhJt7wjZYLpIPAsfSEtMlmR4sLo9k/edit?usp=sharing)
 
+Using the Student Performance Dataset on the UCI Machine Learning Repository I utilized regression methods such as lasso and ridge regression to predict the final grades of students on a scale from 1-20. Utilized Classification Methods such as logistic regression and random forest to predict whether or not a student would receive a passing grade (>10). Obtained an maximum accuracy rate of 86.36% and a minimum RMSE of 2.541. Analyzed covariates to determine which variables that were associated with enhanced student performance.
 
+### 
 
 
