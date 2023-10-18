@@ -12,7 +12,10 @@
 
 M.S. Statistics | University of Virginia (_May 2023_)
 
+
 B.A. Statistics and German Studies | University of Virginia (_May 2022_)
+
+
 
 
 ## Projects
