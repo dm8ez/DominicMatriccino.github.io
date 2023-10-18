@@ -24,12 +24,12 @@ Using the Student Performance Dataset on the UCI Machine Learning Repository I u
 
 
 
-### [Drug Shortage Prediction](assets/Matriccino, Dominic Writing Sample.pdf)
+### [Drug Shortage Prediction](https://s3.amazonaws.com/symp.csm.usprod/alumni-virginia/files/b8f/b8f7641d5c0bfc729ecf0c86f682f17e.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20231018%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231018T175240Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=9c34475179485617587a3941a82395ccc697dbb369b250ae479cd6417184c117)
 
 
 This comprehensive report delves into the intricate landscape of drug shortages within the pharmaceutical industry, with a particular focus on the implications for generic drug manufacturers. It elucidates the process of drug patenting and expiration, detailing how exclusive rights granted during patent periods safeguard pharmaceutical companies but eventually open avenues for generic drug production. The protracted research and development phase, spanning 10-15 years, demands substantial resources, necessitating assurances of profitable market entry post-development. The report underscores the critical role played by patents in fostering competition when they expire, leading to a decrease in drug prices. Drawing attention to the link between manufacturing issues and drug shortages, the document introduces a strategic project undertaken by Picket, a pharmaceutical company specializing in generic drugs. Picket aims to unravel the intricacies of shortage dynamics through regression models predicting the frequency and duration of shortages for specific drug classes. Logistic regression is employed to predict shortages, while Poisson regression tackles the frequency and duration of shortages. The report reveals that certain drug attributes significantly influence the likelihood and characteristics of shortages, emphasizing the importance of leveraging these insights for informed market entry decisions. Ultimately, the report advocates for a nuanced understanding of shortage patterns to optimize business strategies and alleviate the impact of drug shortages on patient care.
 
-
+![Drug Analysis](/assets/drug-clipart-analgesic-8.png)
 
 
 ### [Genetic Mutation in Mice Analysis](https://s3.amazonaws.com/symp.csm.usprod/alumni-virginia/files/989/989a7a36ca03ab817f7dcc29f6cbbe11.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20231018%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231018T172711Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=94f2a7976f5dfd122de092bc967978a5b763d6a400e790ca9399b2b66ca858c5)
