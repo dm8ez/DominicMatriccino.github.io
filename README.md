@@ -20,6 +20,16 @@ B.A. Statistics and German Studies | University of Virginia (_May 2022_)
 
 Using the Student Performance Dataset on the UCI Machine Learning Repository I utilized regression methods such as lasso and ridge regression to predict the final grades of students on a scale from 1-20. Utilized Classification Methods such as logistic regression and random forest to predict whether or not a student would receive a passing grade (>10). Obtained an maximum accuracy rate of 86.36% and a minimum RMSE of 2.541. Analyzed covariates to determine which variables that were associated with enhanced student performance.
 
-### 
+![Student Performance](/assets/Set-of-Highschool-Student-Cartoon-Graphics-1.jpg)
+
+
+### [Genetic Mutation in Mice Analysis] (https://s3.amazonaws.com/symp.csm.usprod/alumni-virginia/files/989/989a7a36ca03ab817f7dcc29f6cbbe11.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20231018%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231018T172711Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=94f2a7976f5dfd122de092bc967978a5b763d6a400e790ca9399b2b66ca858c5)
+
+This mouse experiment investigates the impact of an inflammation-causing mutation on the tibia size of mice. Two groups of mice, with and without the mutation, were examined, spanning different genetic backgrounds. The mutation's significance became evident: it strongly correlated with shorter tibial lengths. Additionally, the genetic backgrounds exhibited notable differences, with A-background mice generally larger even when accounting for the mutation. Gender played an insignificant role. While a pairwise t-test highlighted significant differences among most strains, further analyses were needed. The mutation appears to influence smaller tibias, possibly due to inflammation-induced effects on development. This study offers insights into mutation effects, with scope for more comprehensive exploration.
+
+![Mice Analysis](
+
+
+
 
 
