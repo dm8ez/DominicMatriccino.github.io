@@ -10,10 +10,9 @@
 
 ## Education
 
-M.S. Statistics | University of Virginia (_May 2023_)
+- M.S. Statistics | University of Virginia (_May 2023_)
 
-
-B.A. Statistics and German Studies | University of Virginia (_May 2022_)
+- B.A. Statistics and German Studies | University of Virginia (_May 2022_)
 
 
 
