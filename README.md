@@ -43,5 +43,16 @@ This mouse experiment investigates the impact of an inflammation-causing mutatio
 
 
 
+### [Suspect Identification in Criminal Investigations](https://s3.amazonaws.com/symp.csm.usprod/alumni-virginia/files/bb1/bb127db43b871b6325347c9856a2fdfd.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20231019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231019T235105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=4021f66277727a2b14552ebe904f3e6b7ffab8c6ea32404f4cfb823491e3251d)
 
+This report presents a comprehensive analysis of suspect identification in criminal investigations using a logistic regression model. The study incorporates variables such as Age, Gender, and Crossrace, achieving an overall accuracy rate of 65.84%. Notably, Crossrace emerges as a significant factor, leading to decreased identification accuracy, as confirmed by a two-sample t-test.
 
+The research focuses on three aspects of accuracy: overall accuracy, chooser accuracy, and non-chooser accuracy. Data cleaning reveals minimal missing values, allowing for a detailed examination of variables. Numeric confidence levels and cross-race predictions are investigated, revealing correlations with accuracy.
+
+Logistic regression models are employed to delve into the impact of predictors on accuracy. Findings emphasize the crucial role of confidence levels, with higher confidence correlating positively with accuracy. The cross-race effect is identified as a substantial predictor, indicating a decline in accuracy in cross-race situations. Additionally, the act of choosing someone from the lineup is associated with a significant decrease in accuracy, potentially influenced by overconfidence or difficulty in accurate identification.
+
+Conclusions highlight the importance of confidence levels, the presence of the cross-race effect, and the act of choosing someone in influencing suspect identification accuracy. The logistic regression models consistently achieve accuracy rates above 50%, underscoring the significance of identified variables.
+
+In summary, this report provides valuable insights into the complexities of eyewitness suspect identification, offering implications for improving the reliability of witness testimony in legal proceedings. The study's systematic approach and statistical analyses contribute to a nuanced understanding of the factors influencing the accuracy of suspect identification in criminal investigations.
+
+![Suspect Identification](
