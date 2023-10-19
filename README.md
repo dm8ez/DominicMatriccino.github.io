@@ -55,4 +55,4 @@ Conclusions highlight the importance of confidence levels, the presence of the c
 
 In summary, this report provides valuable insights into the complexities of eyewitness suspect identification, offering implications for improving the reliability of witness testimony in legal proceedings. The study's systematic approach and statistical analyses contribute to a nuanced understanding of the factors influencing the accuracy of suspect identification in criminal investigations.
 
-![Suspect Identification](
+![Suspect Identification](/assets/suspect_iden.jpg)
