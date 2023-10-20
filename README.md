@@ -50,7 +50,7 @@ This mouse experiment investigates the impact of an inflammation-causing mutatio
 
 
 
-### [Suspect Identification in Criminal Investigations](https://s3.amazonaws.com/symp.csm.usprod/alumni-virginia/files/bb1/bb127db43b871b6325347c9856a2fdfd.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20231019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231019T235105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=4021f66277727a2b14552ebe904f3e6b7ffab8c6ea32404f4cfb823491e3251d)
+### [Suspect Identification in Criminal Investigations](/assets/STAT-7995-Report-8.pdf)
 
 This report presents a comprehensive analysis of suspect identification in criminal investigations using a logistic regression model. The study incorporates variables such as Age, Gender, and Crossrace, achieving an overall accuracy rate of 65.84%. Notably, Crossrace emerges as a significant factor, leading to decreased identification accuracy, as confirmed by a two-sample t-test.
 
