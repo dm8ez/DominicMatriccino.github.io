@@ -21,14 +21,14 @@
 
 ### [Classification and Regression of Student Performance](/assets/SYS_6018_Final_Paper.pdf)
 
-The project investigates the relationship between social and demographic factors and chronic absenteeism to inform school policies and programs aimed at
+The project investigates the relationship between social and demographic factors and chronic absenteeism to inform school policies and programs aimed at
 improving educational outcomes for underprivileged students. The project
 explores multiple resampling methods and data mining models, including
 random forest and penalized logistic regression. The top-performing model
 is a penalized logistic regression model trained on an upsampled training
 dataset. The most important features to predict chronic absenteeism are
-grades, schools, paying for extra tutoring, travel time, and study time. Therefore, to encourage attendance and active participation, schools could provide
-additional support for students who face difficulties coming to school or paying for academic materials.
+grades, schools, paying for extra tutoring, travel time, and study time. Therefore, to encourage attendance and active participation, schools could provide
+additional support for students who face difficulties coming to school or paying for academic materials.
 
 ![Student Performance](/assets/Set-of-Highschool-Student-Cartoon-Graphics-1.jpg)
 
