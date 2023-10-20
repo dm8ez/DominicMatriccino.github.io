@@ -19,7 +19,7 @@
 
 ## Projects
 
-### [Classification and Regression of Student Performance](/assets/SYS_6018_Final_Paper.pdf)
+### [Predicting Chronic Absenteeism in Secondary Schools](/assets/SYS_6018_Final_Paper.pdf)
 
 The project investigates the relationship between social and demographic factors and chronic absenteeism to inform school policies and programs aimed at
 improving educational outcomes for underprivileged students. The project
