@@ -19,9 +19,16 @@
 
 ## Projects
 
-### [Classification and Regression of Student Performance](https://docs.google.com/document/d/169ATQx2SRKDx49DhJt7wjZYLpIPAsfSEtMlmR4sLo9k/edit?usp=sharing)
+### [Classification and Regression of Student Performance](/assets/SYS_6018_Final_Paper.pdf)
 
-Using the Student Performance Dataset on the UCI Machine Learning Repository I utilized regression methods such as lasso and ridge regression to predict the final grades of students on a scale from 1-20. Utilized Classification Methods such as logistic regression and random forest to predict whether or not a student would receive a passing grade (>10). Obtained an maximum accuracy rate of 86.36% and a minimum RMSE of 2.541. Analyzed covariates to determine which variables that were associated with enhanced student performance.
+The project investigates the relationship between social and demographic factors and chronic absenteeism to inform school policies and programs aimed at
+improving educational outcomes for underprivileged students. The project
+explores multiple resampling methods and data mining models, including
+random forest and penalized logistic regression. The top-performing model
+is a penalized logistic regression model trained on an upsampled training
+dataset. The most important features to predict chronic absenteeism are
+grades, schools, paying for extra tutoring, travel time, and study time. Therefore, to encourage attendance and active participation, schools could provide
+additional support for students who face difficulties coming to school or paying for academic materials.
 
 ![Student Performance](/assets/Set-of-Highschool-Student-Cartoon-Graphics-1.jpg)
 
